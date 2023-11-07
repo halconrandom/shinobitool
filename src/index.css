@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(./componentes/img/eclipebackground.jpg);
+  background-size: cover;
+
+
 }
 
 code {
