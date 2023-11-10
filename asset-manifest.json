@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shinobitool/static/css/main.cf628476.css",
-    "main.js": "/shinobitool/static/js/main.be7853d6.js",
+    "main.css": "/shinobitool/static/css/main.e339d066.css",
+    "main.js": "/shinobitool/static/js/main.6379a887.js",
     "static/media/eclipebackground.jpg": "/shinobitool/static/media/eclipebackground.8f0e8889369cf1e15fcb.jpg",
     "index.html": "/shinobitool/index.html",
-    "main.cf628476.css.map": "/shinobitool/static/css/main.cf628476.css.map",
-    "main.be7853d6.js.map": "/shinobitool/static/js/main.be7853d6.js.map"
+    "main.e339d066.css.map": "/shinobitool/static/css/main.e339d066.css.map",
+    "main.6379a887.js.map": "/shinobitool/static/js/main.6379a887.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf628476.css",
-    "static/js/main.be7853d6.js"
+    "static/css/main.e339d066.css",
+    "static/js/main.6379a887.js"
   ]
 }
